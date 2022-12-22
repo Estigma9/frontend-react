@@ -1,6 +1,6 @@
 
 function baseURL(){
-    const baseURL = 'http://localhost:4000';
+    const baseURL = 'backend-mongo-production.up.railway.app';
     return baseURL
 }
 
